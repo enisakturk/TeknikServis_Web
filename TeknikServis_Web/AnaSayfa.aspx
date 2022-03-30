@@ -79,7 +79,7 @@
             </p>
         </section>
         <!-- //about -->
-        <!-- news -->
+        
         <div class="news" id="gallery">
             <div class="text-center">
                 <h2 class="w3_head">Ürünler</h2>

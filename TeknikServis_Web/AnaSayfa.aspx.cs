@@ -26,7 +26,7 @@ namespace TeknikServis_Web
             t.ADSOYAD = TextBox1.Text;
             t.MAIL = TextBox2.Text;
             t.KONU = TextBox3.Text;
-            t.MAIL = TextBox4.Text;
+            t.MESAJ = TextBox4.Text;
             db.TBLILETISIM.Add(t);
             db.SaveChanges();
         }
